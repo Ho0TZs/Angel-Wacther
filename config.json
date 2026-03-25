@@ -1,0 +1,12 @@
+{
+  "prefix": "!",
+  "modRoles": {
+    "trial": "Trial Mod",
+    "mod": "Mod",
+    "head": "Head Mod"
+  },
+  "logChannel": "mod-logs",
+  "welcomeChannel": "welcome",
+  "badWords": ["fuck", "bitch", "ass", "dick", "nigga", "nigger", "gorigga"],
+  "maxWarnings": 3
+}
