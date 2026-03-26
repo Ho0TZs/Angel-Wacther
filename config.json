@@ -2,10 +2,10 @@
   "prefix": "!",
   "modRoles": {
     "trial": "Trial Mod",
-    "mod": "Mod",
+    "mod": "Moderator",
     "head": "Head Mod"
   },
-  "logChannel": "mod-logs",
+  "logChannel": "logs",
   "welcomeChannel": "welcome",
   "badWords": ["fuck", "bitch", "ass", "dick", "nigga", "nigger", "gorigga"],
   "maxWarnings": 3
