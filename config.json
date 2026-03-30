@@ -1,12 +1,12 @@
 {
   "prefix": "!",
   "modRoles": {
-    "trial": "Trial Mod",
-    "mod": "Moderator",
-    "head": "Head Mod"
+    "trial": "🔩 | Has Wand  ( Trial Mod )",
+    "mod": "🛠️ | Has Fire Wand ( Mod )",
+    "head": "⚒️ | Head Mod"
   },
   "logChannel": "logs",
   "welcomeChannel": "welcome",
-  "badWords": ["fuck", "bitch", "ass", "dick", "nigga", "nigger", "gorigga"],
+  "badWords": ["fuck", "bitch", "ass", "dick", "nigga", "nigger", "gorigga", "fuck me",
   "maxWarnings": 3
 }

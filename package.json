@@ -11,7 +11,5 @@
     "express": "^4.22.1",
     "fs": "^0.0.1-security"
   },
-  "engines": {
-    "node": "18.x"
-  }
+  "engines": { "node": "20.x" }
 }
